@@ -1,2 +1,1 @@
-# 40-Day-Python-Practice
-# 40-Day-Python-Practice
+# 40-Day-Python-Practice Series of AIO VIET NAM
